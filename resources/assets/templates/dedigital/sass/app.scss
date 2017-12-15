@@ -1,0 +1,16 @@
+// Variables
+@import "colors";
+@import "functions";
+@import "variables";
+
+// Bootstrap
+@import "~bootstrap/scss/bootstrap";
+
+//Mdi Icons
+@import "~mdi/scss/materialdesignicons";
+@import "components/_mdi.scss";
+
+body, html {
+  height: 100%;
+  width: 100%;
+}
